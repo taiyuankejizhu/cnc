@@ -1,0 +1,10 @@
+(NO.  PL IP    ON  OFF SV  S  UP DN V  LC PP B_OFS S_OFS LNS  STEP  LNM RY );
+C103 = + 004.5 200 100 070 05 01 50 03 00 01 0000 0.000  0050 200 0.0 040.0 ;
+c103;
+g01 z-1.5;
+g01 x+5 y+5;
+g01 x+10 y+0;
+g01 x+5 y-5;
+g01 x+0 y+0;
+m08;
+
