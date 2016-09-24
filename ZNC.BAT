@@ -12,7 +12,6 @@ tcc -1 -ml -c -f87 KeyBoard
 tcc -1 -ml -c -f87 Loran
 tcc -1 -ml -c -f87 filea
 tcc -1 -ml -c -f87 ListLN
-tcc -1 -ml -c -f87 main1
 tcc -1 -ml -c -f87 cnc1
 tcc -1 -ml -c -f87 Edit.c
 tcc -1 -ml -c -f87 List
